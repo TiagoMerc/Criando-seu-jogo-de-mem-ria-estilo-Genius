@@ -24,3 +24,6 @@ Inserindo as cores no grid e iniciando o arquivo script.js
 
 Criando interação usando o JavaScript 
 
+###  Parte 4:
+
+Criando funções de interação ao clicar com o mouse
