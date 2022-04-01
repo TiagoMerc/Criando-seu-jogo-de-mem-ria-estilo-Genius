@@ -10,3 +10,11 @@ HTML, CSS e JavaScript | Front-End Básico
 ###  Parte 1:
 
 Criando o arquivo, html e style para estilizar o nosso grid
+
+![Genesis, Print parte 1](/Genesis/imgs/Parte1.png)
+
+###  Parte 2:
+
+Inserirndo as cores no grid e iniciando o arquivo script.js
+
+![Genesis, Print parte 2](/Genesis/imgs/Parte2.png)
