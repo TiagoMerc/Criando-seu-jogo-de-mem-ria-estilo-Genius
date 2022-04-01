@@ -17,7 +17,7 @@ let shuffLerOrder = () => {
   order[order.length] = colorBorder;
   clickOrder = [];
 
-  for( let i = order) {
-    let elementColor
-  }
+ /*  for( let i = order) {
+   // let elementColor
+  } */
 }
