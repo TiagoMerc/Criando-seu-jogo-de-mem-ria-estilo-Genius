@@ -1,4 +1,4 @@
-# Criando-seu-jogo-de-mem-ria-estilo-Genius
+# Criando seu jogo de memória estilo Genius
 DESCRIÇÃO Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, 
 sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.  
 
@@ -19,3 +19,8 @@ Inserindo as cores no grid e iniciando o arquivo script.js
 
 
 ![Jogo Genesis, Print parte 2](/Genesis/imgs/Parte2.png)
+
+###  Parte 3:
+
+Criando interação usando o JavaScript 
+
