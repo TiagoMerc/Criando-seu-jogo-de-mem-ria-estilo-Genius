@@ -27,3 +27,11 @@ Criando interação usando o JavaScript
 ###  Parte 4:
 
 Criando funções de interação ao clicar com o mouse
+
+###  Parte 5:
+
+Criação de elementos
+
+###  Parte 6:
+
+Mexendo no arquivo js
