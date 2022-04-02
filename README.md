@@ -34,4 +34,5 @@ Criação de elementos
 
 ###  Parte 6:
 
-Mexendo no arquivo js
+Mexendo no arquivo js e finalizando as 
+arrow functions
