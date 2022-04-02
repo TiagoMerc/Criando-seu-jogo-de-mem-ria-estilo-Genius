@@ -5,8 +5,10 @@ sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 HTML, CSS e JavaScript | Front-End Básico 
 
 **ESPECIALISTA:**  Gabriela Pinheiro 
+_____________________________________________________
 
-Vamos jogar?
+### Vamos jogar?
+
 Acesse o link para jogar:  https://tiagomerc.github.io/Criando-seu-jogo-de-mem-ria-estilo-Genius/
 
 
@@ -21,7 +23,7 @@ Criando o arquivo, html e style para estilizar o nosso grid
 Inserindo as cores no grid e iniciando o arquivo script.js
 
 
-![Jogo Genesis, Print parte 2](/Genesis/Parte2.png)
+![Jogo Genesis, Print parte 2](/Genesis/imgs/Parte2.png)
 
 ###  Parte 3:
 
