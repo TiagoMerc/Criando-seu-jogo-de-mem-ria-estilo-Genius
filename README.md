@@ -21,7 +21,7 @@ Criando o arquivo, html e style para estilizar o nosso grid
 Inserindo as cores no grid e iniciando o arquivo script.js
 
 
-![Jogo Genesis, Print parte 2](/Parte2.png)
+![Jogo Genesis, Print parte 2](/Genesis/Parte2.png)
 
 ###  Parte 3:
 
